@@ -1,0 +1,7 @@
+aws_region = "eu-central-1"
+kubernetes_version = "1.14"
+aws_admin_public_key = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDhMYgNyN3atbASmahYxyA95KWabBWSWgTepBMPJN/n+djglO1PMG9WgUEh/yj6H/fMfVJXSRtNISRT4LwJwyIuXFRORgphAaY0ID6491U7iNtU46tExZBtRZHFCRXBNs+FZHLh6ZA+oEwLOKSJNZBI8Iy8jgtSbPEoheDlkutKrY4Um9FGIkdGrD5vhp0gvo1qNAigQh3LGUte2Abu6B52uOy7RImsHltvtTx2S8N/gxqIabi/NkpxEJg6FlNx4UKZWh1YtC73DPv4EZ7uPdbrx4FHJLQ41s3HdglocIbTFQE9Mu6kimd+bmLAinzz/deI3thinCSsi2PfTMhzlv4R"
+eks_worker_group_1_instance_type = "t3.nano"
+eks_asg_max_size = "3"
+eks_asg_min_size = "1"
+eks_asg_desired_capacity = "1"
